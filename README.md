@@ -23,4 +23,5 @@ Camera  | Primary: 13 MP, Secondary: 5 MP
 # Other repos
 
 [Device tree](https://github.com/HermesRepos/android_device_xiaomi_hermes/tree/cm-13.0)
+
 [Kernel](https://github.com/HermesRepos/android_kernel_xiaomi_hermes/tree/cm-13.0)
