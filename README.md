@@ -1,7 +1,6 @@
-# Redmi Note 2 -  LineageOS 13
----
+# Redmi Note 2 -  LineageOS 14.1
 
-This branch is vendor for building LineageOS 13
+This branch is vendor for building LineageOS 14.1
 ---
 
 ## Specifications
@@ -22,6 +21,6 @@ Camera  | Primary: 13 MP, Secondary: 5 MP
 
 # Other repos
 
-[Device tree](https://github.com/HermesRepos/android_device_xiaomi_hermes/tree/cm-13.0)
+[Device tree](https://github.com/HermesRepos/android_device_xiaomi_hermes/tree/cm-14.1)
 
-[Kernel](https://github.com/HermesRepos/android_kernel_xiaomi_hermes/tree/cm-13.0)
+[Kernel](https://github.com/HermesRepos/android_kernel_xiaomi_hermes/tree/cm-14.1)
